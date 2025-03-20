@@ -13,8 +13,7 @@ I'm Angela, a first year Mechatronics Engineering student at the University of W
 
 ## 🔝 More Stats
 ![](https://github-contributor-stats.vercel.app/api?username=barsoapillumi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsoapillumi&theme=nord&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" alt="barsoapillumi" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsoapillumi&theme=nord&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" alt="barsoapillumi" /></a>
 
 ## Connect With Me:
 <p align="center">
