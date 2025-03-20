@@ -7,7 +7,7 @@ I'm Angela, a first year Mechatronics Engineering student at the University of W
 ⚡ Fun fact: I have a orange cat (profile)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=barsoapillumi&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=barsoapillumi&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=barsoapillumi&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=barsoapillumi&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
