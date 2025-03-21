@@ -17,7 +17,8 @@ I'm Angela, a first year Mechatronics Engineering student at the University of W
 
 ## Connect With Me:
 <p align="center">
-[//]: # <a href="https://linkedin.com/in/angzhou8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angzhou8" height="30" width="40" /></a>
+<!--- <a href="https://linkedin.com/in/angzhou8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angzhou8" height="30" width="40" /></a>
+-->
 <a href="https://instagram.com/barsoapang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barsoapang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/barsoapang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="barsoapang" height="30" width="40" /></a>
 </p>
