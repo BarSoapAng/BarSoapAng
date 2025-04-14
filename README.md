@@ -3,7 +3,7 @@ Hi! Welcome to my Github landing page!<br>
 I'm Angela, a first year Mechatronics Engineering student at the University of Waterloo. I went into this program for robotics, but ended up loving software more than I'd imagined.<br><br>
 🔭 I’m currently working on a personal website (my first one!)<br>
 💬 Ask me about my university and work experience!<br>
-💬 Reach me at **soapangzhou@gmail.com**<br>
+💬 Reach me at **a229zhou@uwaterloo.ca**<br>
 ⚡ Fun fact: I have a orange cat (profile)
 
 ## 📊 GitHub Stats:
