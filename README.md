@@ -7,13 +7,13 @@ I'm Angela, a first year Mechatronics Engineering student at the University of W
 ⚡ Fun fact: My cat is called Illumi
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=barsoapang&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=barsoapang&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true)-->
 ![](https://nirzak-streak-stats.vercel.app/?user=barsoapang&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=barsoapang&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🔝 More Stats
+<!---## 🔝 More Stats
 ![](https://github-contributor-stats.vercel.app/api?username=barsoapang&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
-<a align="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsoapang&theme=nord&no-bg=true&no-frame=true&column=3&row=2&margin-w=15&margin-h=15" alt="barsoapang" /></a>
+<a align="right" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsoapang&theme=nord&no-bg=true&no-frame=true&column=3&row=2&margin-w=15&margin-h=15" alt="barsoapang" /></a>-->
 
 ## Connect With Me:
 <p align="center">
