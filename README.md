@@ -1,10 +1,11 @@
 # 💫 About Me:
 Hi! Welcome to my Github landing page!<br>
-I'm Angela, a first year Mechatronics Engineering student at the University of Waterloo. I went into this program for robotics, but ended up loving software more than I'd imagined.<br><br>
+I'm Angela, a second year Mechatronics Engineering student at the University of Waterloo. I went into this program for robotics, but ended up loving software more than I'd imagined.<br><br>
 🔭 I’m currently working on a personal website (my first one!)<br>
 💬 Ask me about my university and work experience!<br>
 💬 Reach me at **a229zhou@uwaterloo.ca**<br>
 ⚡ Fun fact: My cat is called Illumi
+⭐ Fav Project: LOL Purity Test!
 
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=barsoapang&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true)-->
